@@ -1,1 +1,3 @@
-# Neuroanalytics
+# Neuroanalytics 
+### NBIO 750 Homework Repository, consisting of bash scripts, R, etc... 
+#### Each homework is divided into sections within this repository. Click through each section to see more information!
